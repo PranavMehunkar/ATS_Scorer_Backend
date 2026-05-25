@@ -1,0 +1,257 @@
+2026-05-23 20:33:48,942 - INFO - Starting ATS Resume Analyzer API...
+2026-05-23 20:33:48,943 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-23 20:33:53,706 - INFO - Loaded en_core_web_md
+2026-05-23 20:33:53,706 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-23 20:34:11,823 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-23 20:34:11,824 - INFO - All models loaded. API is ready to serve requests.
+2026-05-23 20:39:29,141 - INFO - Starting ATS Resume Analyzer API...
+2026-05-23 20:39:29,141 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-23 20:39:32,186 - INFO - Loaded en_core_web_md
+2026-05-23 20:39:32,186 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-23 20:39:42,579 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-23 20:39:42,580 - INFO - All models loaded. API is ready to serve requests.
+2026-05-23 20:48:10,945 - INFO - Starting ATS Resume Analyzer API...
+2026-05-23 20:48:10,945 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-23 20:48:15,177 - INFO - Loaded en_core_web_md
+2026-05-23 20:48:15,177 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-23 20:48:27,726 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-23 20:48:27,727 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 11:27:24,754 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 11:27:24,755 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 11:27:33,993 - INFO - Loaded en_core_web_md
+2026-05-25 11:27:33,993 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 11:28:12,054 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 11:28:12,054 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 11:31:19,690 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 11:31:19,690 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 11:31:28,491 - INFO - Loaded en_core_web_md
+2026-05-25 11:31:28,491 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 11:31:57,552 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 11:31:57,552 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 11:44:01,072 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 11:44:01,072 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 11:44:09,673 - INFO - Loaded en_core_web_md
+2026-05-25 11:44:09,673 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 11:44:28,475 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 11:44:28,475 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 11:54:10,548 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 11:54:10,549 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 11:54:14,659 - INFO - Loaded en_core_web_md
+2026-05-25 11:54:14,659 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 11:54:26,422 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 11:54:26,423 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 11:55:24,436 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 11:55:24,436 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 11:55:29,794 - INFO - Loaded en_core_web_md
+2026-05-25 11:55:29,794 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 11:55:43,206 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 11:55:43,206 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 11:55:43,319 - INFO - shutting down the api!!
+2026-05-25 11:55:45,166 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 11:55:45,166 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 11:55:48,336 - INFO - Loaded en_core_web_md
+2026-05-25 11:55:48,336 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 11:55:59,823 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 11:55:59,823 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:02:03,279 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:02:03,279 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:02:07,059 - INFO - Loaded en_core_web_md
+2026-05-25 12:02:07,059 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:02:19,793 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:02:19,793 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:11:28,851 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:11:28,851 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:11:32,700 - INFO - Loaded en_core_web_md
+2026-05-25 12:11:32,700 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:11:45,498 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:11:45,498 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:15:45,883 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:15:45,883 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:15:50,326 - INFO - Loaded en_core_web_md
+2026-05-25 12:15:50,326 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:16:08,705 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:16:08,706 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:16:28,929 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:16:28,929 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:16:34,129 - INFO - Loaded en_core_web_md
+2026-05-25 12:16:34,129 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:16:48,679 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:16:48,679 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:17:37,514 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:17:37,515 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:17:44,700 - INFO - Loaded en_core_web_md
+2026-05-25 12:17:44,701 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:18:01,646 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:18:01,646 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:19:03,678 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:19:03,678 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:19:09,405 - INFO - Loaded en_core_web_md
+2026-05-25 12:19:09,405 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:19:24,190 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:19:24,190 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:23:10,546 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:23:10,546 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:23:18,752 - INFO - Loaded en_core_web_md
+2026-05-25 12:23:18,752 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:23:36,152 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:23:36,152 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:24:24,527 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:24:24,528 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:24:33,698 - INFO - Loaded en_core_web_md
+2026-05-25 12:24:33,698 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:24:55,945 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:24:55,945 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:38:03,568 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:38:03,568 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:38:24,846 - INFO - Loaded en_core_web_md
+2026-05-25 12:38:24,846 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:38:51,772 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:38:51,772 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:39:41,093 - ERROR - Neither SUPABASE_URL (for JWKS) nor SUPABASE_JWT_SECRET configured — cannot verify tokens
+2026-05-25 12:41:10,473 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:41:10,474 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:41:14,041 - INFO - Loaded en_core_web_md
+2026-05-25 12:41:14,042 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:41:25,045 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:41:25,045 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:42:09,934 - ERROR - File parsing failed: No module named 'magic'
+2026-05-25 12:43:44,346 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:43:44,346 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:43:47,493 - INFO - Loaded en_core_web_md
+2026-05-25 12:43:47,493 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:43:58,364 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:43:58,364 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:44:33,866 - ERROR - File parsing failed: No module named 'pdfplumber'
+2026-05-25 12:45:30,344 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:45:30,344 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:45:33,481 - INFO - Loaded en_core_web_md
+2026-05-25 12:45:33,481 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:45:44,826 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:45:44,826 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:46:20,462 - ERROR - File parsing failed: No module named 'docx'
+2026-05-25 12:47:04,567 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:47:04,568 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:47:07,763 - INFO - Loaded en_core_web_md
+2026-05-25 12:47:07,763 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:47:18,964 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:47:18,964 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:47:50,346 - ERROR - File parsing failed: No module named 'PyPDF2'
+2026-05-25 12:48:21,972 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 12:48:21,972 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 12:48:25,156 - INFO - Loaded en_core_web_md
+2026-05-25 12:48:25,156 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 12:48:36,266 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 12:48:36,266 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 12:49:07,400 - INFO - parse_Resume_file: parsing file :Pranav Resume.pdf
+2026-05-25 12:49:08,179 - ERROR - Error in parse_resume_file_extraction: object of type 'NoneType' has no len()
+2026-05-25 12:49:08,180 - ERROR - File parsing failed: An unexpected error occurred while processing the file. Please try again or contact support if the problem persists.
+2026-05-25 16:36:41,289 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 16:36:41,290 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 16:36:56,061 - INFO - Loaded en_core_web_md
+2026-05-25 16:36:56,062 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 16:37:35,868 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 16:37:35,868 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 16:41:32,315 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 16:41:32,316 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 16:41:36,226 - INFO - Loaded en_core_web_md
+2026-05-25 16:41:36,226 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 16:41:48,953 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 16:41:48,953 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 16:42:40,112 - INFO - parse_Resume_file: parsing file :Pranav Resume.pdf
+2026-05-25 16:42:41,376 - ERROR - Error in parse_resume_file_extraction: object of type 'NoneType' has no len()
+2026-05-25 16:42:41,377 - ERROR - File parsing failed: An unexpected error occurred while processing the file. Please try again or contact support if the problem persists.
+2026-05-25 16:48:00,239 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 16:48:00,239 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 16:48:04,032 - INFO - Loaded en_core_web_md
+2026-05-25 16:48:04,032 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 16:48:18,214 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 16:48:18,214 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 16:48:54,682 - INFO - parse_Resume_file: parsing file :Pranav Resume.pdf
+2026-05-25 16:48:55,932 - INFO - parse_resume_file: Extracted 2896 chars from Pranav Resume.pdf
+2026-05-25 16:48:55,932 - INFO - Parsed 'Pranav Resume.pdf': 2896 chars extracted
+2026-05-25 16:48:56,194 - ERROR - Full analysis pipeline failed: No module named 'rapidfuzz'
+2026-05-25 16:49:34,797 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 16:49:34,798 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 16:49:38,785 - INFO - Loaded en_core_web_md
+2026-05-25 16:49:38,785 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 16:49:52,597 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 16:49:52,597 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 16:50:25,792 - INFO - parse_Resume_file: parsing file :Pranav Resume.pdf
+2026-05-25 16:50:27,125 - INFO - parse_resume_file: Extracted 2896 chars from Pranav Resume.pdf
+2026-05-25 16:50:27,125 - INFO - Parsed 'Pranav Resume.pdf': 2896 chars extracted
+2026-05-25 16:50:31,037 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-05-25 16:50:33,237 - INFO - Groq parsed summary: ''
+2026-05-25 16:50:33,237 - INFO - Groq parsed skills count: 28
+2026-05-25 16:50:33,237 - INFO - Groq parsed experience count: 1
+2026-05-25 16:50:43,178 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://jkexqpzkcdquttgdrbwd.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-05-25 17:12:16,136 - ERROR - Failed to generate PDF: WeasyPrint is not installed. PDF generation unavailable.
+2026-05-25 17:12:57,777 - INFO - Starting ATS Resume Analyzer API...
+2026-05-25 17:12:57,777 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-25 17:13:02,348 - INFO - Loaded en_core_web_md
+2026-05-25 17:13:02,348 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-25 17:13:16,762 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-25 17:13:16,762 - INFO - All models loaded. API is ready to serve requests.
+2026-05-25 17:26:43,248 - INFO - parse_Resume_file: parsing file :Pranav Resume 2.pdf
+2026-05-25 17:26:44,015 - INFO - parse_resume_file: Extracted 2961 chars from Pranav Resume 2.pdf
+2026-05-25 17:26:44,015 - INFO - Parsed 'Pranav Resume 2.pdf': 2961 chars extracted
+2026-05-25 17:26:47,256 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-05-25 17:26:49,632 - INFO - Groq parsed summary: 'Passionate and detail-oriented AI Engineer fresher with hands-on experience in Machine Learning, Dee'
+2026-05-25 17:26:49,632 - INFO - Groq parsed skills count: 37
+2026-05-25 17:26:49,632 - INFO - Groq parsed experience count: 1
+2026-05-25 17:26:55,217 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://jkexqpzkcdquttgdrbwd.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-05-25 17:31:55,126 - INFO - parse_Resume_file: parsing file :Pranav Resume 2.pdf
+2026-05-25 17:31:55,939 - INFO - parse_resume_file: Extracted 2957 chars from Pranav Resume 2.pdf
+2026-05-25 17:31:55,939 - INFO - Parsed 'Pranav Resume 2.pdf': 2957 chars extracted
+2026-05-25 17:31:58,558 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-05-25 17:32:00,403 - INFO - Groq parsed summary: 'Passionate and detail-oriented AI Engineer fresher with hands-on experience in Machine Learning, Dee'
+2026-05-25 17:32:00,404 - INFO - Groq parsed skills count: 29
+2026-05-25 17:32:00,404 - INFO - Groq parsed experience count: 1
+2026-05-25 17:32:05,291 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://jkexqpzkcdquttgdrbwd.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-05-25 17:36:16,487 - INFO - parse_Resume_file: parsing file :Pranav Resume 2.pdf
+2026-05-25 17:36:17,347 - INFO - parse_resume_file: Extracted 3006 chars from Pranav Resume 2.pdf
+2026-05-25 17:36:17,348 - INFO - Parsed 'Pranav Resume 2.pdf': 3006 chars extracted
+2026-05-25 17:36:19,897 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-05-25 17:36:24,521 - INFO - Groq parsed summary: 'Passionate and detail-oriented AI Engineer fresher with hands-on experience in Machine Learning, Dee'
+2026-05-25 17:36:24,521 - INFO - Groq parsed skills count: 28
+2026-05-25 17:36:24,521 - INFO - Groq parsed experience count: 1
+2026-05-25 17:36:29,293 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://jkexqpzkcdquttgdrbwd.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-05-25 17:40:45,471 - INFO - parse_Resume_file: parsing file :Pranav Resume 2.pdf
+2026-05-25 17:40:46,004 - INFO - parse_resume_file: Extracted 2905 chars from Pranav Resume 2.pdf
+2026-05-25 17:40:46,005 - INFO - Parsed 'Pranav Resume 2.pdf': 2905 chars extracted
+2026-05-25 17:40:48,202 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-05-25 17:40:50,278 - INFO - Groq parsed summary: 'Passionate and detail-oriented AI Engineer fresher with hands-on experience in Machine Learning, Dee'
+2026-05-25 17:40:50,278 - INFO - Groq parsed skills count: 25
+2026-05-25 17:40:50,278 - INFO - Groq parsed experience count: 1
+2026-05-25 17:40:54,312 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://jkexqpzkcdquttgdrbwd.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-05-25 17:45:52,966 - INFO - parse_Resume_file: parsing file :Pranav Resume 2.pdf
+2026-05-25 17:45:53,615 - INFO - parse_resume_file: Extracted 2917 chars from Pranav Resume 2.pdf
+2026-05-25 17:45:53,615 - INFO - Parsed 'Pranav Resume 2.pdf': 2917 chars extracted
+2026-05-25 17:45:55,707 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-05-25 17:45:57,967 - INFO - Groq parsed summary: 'Passionate and detail-oriented AI Engineer fresher with hands-on experience in Machine Learning, Dee'
+2026-05-25 17:45:57,967 - INFO - Groq parsed skills count: 28
+2026-05-25 17:45:57,967 - INFO - Groq parsed experience count: 1
+2026-05-25 17:46:02,097 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://jkexqpzkcdquttgdrbwd.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-05-25 17:50:36,894 - INFO - parse_Resume_file: parsing file :Pranav Resume 2.pdf
+2026-05-25 17:50:37,542 - INFO - parse_resume_file: Extracted 2842 chars from Pranav Resume 2.pdf
+2026-05-25 17:50:37,542 - INFO - Parsed 'Pranav Resume 2.pdf': 2842 chars extracted
+2026-05-25 17:50:40,539 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-05-25 17:50:42,338 - INFO - Groq parsed summary: 'Passionate and detail-oriented AI Engineer fresher with hands-on experience in Machine Learning, Dee'
+2026-05-25 17:50:42,338 - INFO - Groq parsed skills count: 26
+2026-05-25 17:50:42,338 - INFO - Groq parsed experience count: 1
+2026-05-25 17:50:46,262 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://jkexqpzkcdquttgdrbwd.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-05-25 17:57:31,552 - INFO - parse_Resume_file: parsing file :Pranav Resume 2.pdf
+2026-05-25 17:57:32,138 - INFO - parse_resume_file: Extracted 2825 chars from Pranav Resume 2.pdf
+2026-05-25 17:57:32,138 - INFO - Parsed 'Pranav Resume 2.pdf': 2825 chars extracted
+2026-05-25 17:57:34,292 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-05-25 17:57:36,210 - INFO - Groq parsed summary: 'Passionate and detail-oriented AI Engineer fresher with hands-on experience in Machine Learning, Dee'
+2026-05-25 17:57:36,210 - INFO - Groq parsed skills count: 25
+2026-05-25 17:57:36,211 - INFO - Groq parsed experience count: 1
+2026-05-25 17:57:40,026 - ERROR - Failed to save analysis to Supabase: Client error '401 Unauthorized' for url 'https://jkexqpzkcdquttgdrbwd.supabase.co/rest/v1/analyses'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
