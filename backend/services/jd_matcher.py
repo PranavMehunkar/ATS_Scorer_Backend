@@ -93,7 +93,6 @@ def compare_resume_with_jd(
     resume_skills: List[str],
     jd_text: str,
     jd_keywords: List[str],
-    embedder: SentenceTransformer,
     nlp: spacy.Language,
 ) -> Dict:
     semantic_similarity = calculate_semantic_similarity(resume_text, jd_text, embedder)
