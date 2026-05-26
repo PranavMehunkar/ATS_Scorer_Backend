@@ -38,22 +38,13 @@ def analyze_full_resume(
         'github':    parsed_resume.get('github'),
         'portfolio': None,
     }
-    if embedder:
-        skill_validation = validate_skills_with_projects(
-            skills=skills,
-            projects=projects,
-            experience_entries=parsed_resume.get('experience', []),
-            embedder=embedder,
-        )
-    else:
-        skill_validation = {
-            'validated_skills': [],
-            'unvalidated_skills': skills,
-            'validation_percentage': 0.0,
-            'skill_project_mapping': {},
-            'validation_score': 0.0,
-        }
-
+    skill_validation = validate_skills_with_projects(
+        skills=skills,
+        projects=projects,
+        experience_entries=parsed_resume.get('experience', []),
+        embedder=None,
+    )
+    
     jd_comparison_result = None
     jd_keywords = None
     if job_description and job_description.strip():
