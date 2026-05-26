@@ -67,7 +67,6 @@ def analyze_full_resume(
             resume_skills=skills,
             jd_text=job_description.strip(),
             jd_keywords=jd_keywords,
-            embedder=embedder,
             nlp=nlp,
         )
 
