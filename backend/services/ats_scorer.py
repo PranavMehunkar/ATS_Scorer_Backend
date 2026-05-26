@@ -102,7 +102,6 @@ def validate_skills_with_projects(
     skills: List[str],
     projects: List[Dict],
     experience_entries: List[Dict],
-    embedder: SentenceTransformer,
     threshold: float = 0.6,
 ) -> Dict:
     
