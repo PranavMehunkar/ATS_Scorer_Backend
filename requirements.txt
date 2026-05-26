@@ -10,3 +10,6 @@ requests
 python-dotenv
 scikit-learn
 PyJWT
+sentence-transformers
+torch
+transformers
