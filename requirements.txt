@@ -10,3 +10,4 @@ PyPDF2
 python-multipart
 requests
 python-dotenv
+PyJWT[crypto]
