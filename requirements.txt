@@ -13,3 +13,4 @@ PyJWT
 sentence-transformers
 torch
 transformers
+groq
