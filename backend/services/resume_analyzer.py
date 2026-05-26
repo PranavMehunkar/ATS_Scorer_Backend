@@ -11,6 +11,7 @@ def analyze_full_resume(
     resume_text: str,
     nlp: spacy.Language,
     job_description: Optional[str] = None,
+    embedder=None,
 ) -> Dict:
     import logging
     logger = logging.getLogger('ats_resume_scorer')
@@ -42,6 +43,7 @@ def analyze_full_resume(
             skills=skills,
             projects=projects,
             experience_entries=parsed_resume.get('experience', []),
+            embedder=embedder,
         )
     else:
         skill_validation = {
