@@ -42,7 +42,6 @@ def analyze_full_resume(
             skills=skills,
             projects=projects,
             experience_entries=parsed_resume.get('experience', []),
-            embedder=embedder,
         )
     else:
         skill_validation = {
