@@ -11,3 +11,4 @@ python-dotenv
 scikit-learn
 PyJWT
 groq>=0.5.0
+rapidfuzz
