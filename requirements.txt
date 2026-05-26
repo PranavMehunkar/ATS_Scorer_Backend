@@ -13,4 +13,4 @@ PyJWT
 sentence-transformers
 torch
 transformers
-groq
+groq>=0.5.0
