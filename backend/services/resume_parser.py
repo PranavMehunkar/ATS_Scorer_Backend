@@ -1,5 +1,4 @@
 import io
-import magic
 from typing import Tuple,Optional
 
 import pdfplumber
@@ -39,11 +38,26 @@ def validate_file(file_data:bytes,filename:str)->Tuple[bool,str,Optional[str]]:
     
     if file_size_bytes==0:
         return False,'uploaded file is empty ... please check the file you have uploaded and try again'
-    
-    try:
-        mime_type=magic.from_buffer(file_data,mime=True)
-    except Exception as e:
-        return False,f"error determining the file type : {e}",None
+
+    import os
+
+    extension = os.path.splitext(filename)[1].lower()
+
+    EXTENSION_MAP = {
+        ".pdf": "pdf",
+        ".docx": "docx",
+        ".doc": "doc"
+    }
+
+    if extension not in EXTENSION_MAP:
+        return False, (
+            "Unsupported file type. "
+            "Please upload PDF or DOCX files only."
+        ), None
+
+    file_type = EXTENSION_MAP[extension]
+
+    return True, "", file_type
     
     if mime_type not in SUPPORTED_MIME_TYPES:
         supported=', '.join(SUPPORTED_MIME_TYPES.keys()).upper()
